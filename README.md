@@ -1,4 +1,4 @@
-### :put_litter_in_its_place: ゴミはゴミ箱へ
+
 
 ![](https://komarev.com/ghpvc/?username=kishimoto-banana)
 
